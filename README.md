@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Deimmo 黛墨
+- 👀 I’m interested in **Data science applied in environment and climate regions**
+- 🌱 I’m currently learning numerical methods to solve PDEs and ODEs
+- 📫 My email adress is highrayzh@gmail.com
